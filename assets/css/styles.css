@@ -93,8 +93,8 @@ ul { list-style: none; }
   flex-shrink: 0;
 }
 .brand img {
-  width: 64px;  /* Bigger logo */
-  height: 64px;
+  width: 76px;  /* Bigger logo */
+  height: 76px;
   object-fit: contain;
 }
 .brand-text .name {
